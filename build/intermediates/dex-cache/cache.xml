@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\classes-e6603bd7b5a1d2d94fec05f532436a693aeae01c.jar" />
+    </item>
+    <item
+        jar="C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\classes-ab228b18acec549af13728ceb4e3740188ee2bb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\rob\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cfe567c9fa15ba972a1066e433265c969128b16b.jar" />
+    </item>
+    <item
+        jar="C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a0e979ac4ea49d3f81f5d83161c2253cf21090e4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemGauge</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensor_service">SensorService</string>
+    <string name="redbear_service">RedBearService</string>
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+</resources>

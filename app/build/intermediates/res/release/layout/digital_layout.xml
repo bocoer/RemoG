@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@color/black">
+    
+ 
+    <com.resc.remgauge.DigitalView 
+	    android:id="@+id/DigitalView1"
+    	android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+   
+        />
+    
+    
+</LinearLayout>
+<!-- From: file:/C:/Users/rob/Desktop/rgApp/rgApp1.2/app/src/main/res/layout/digital_layout.xml -->

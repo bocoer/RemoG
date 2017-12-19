@@ -1,0 +1,5 @@
+C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\classes\debug
+C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cfe567c9fa15ba972a1066e433265c969128b16b.jar
+C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a0e979ac4ea49d3f81f5d83161c2253cf21090e4.jar
+C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\classes-e6603bd7b5a1d2d94fec05f532436a693aeae01c.jar
+C:\Users\rob\Desktop\rgApp\rgApp1.2\app\build\intermediates\pre-dexed\debug\classes-ab228b18acec549af13728ceb4e3740188ee2bb1.jar

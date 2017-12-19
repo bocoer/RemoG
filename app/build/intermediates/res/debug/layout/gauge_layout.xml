@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/black">
+   
+	
+    
+	<com.resc.remgauge.GaugeBuilder 
+	    android:id="@+id/analogGauge1"
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="2dp"
+        android:layout_weight="1" />
+      
+	
+	<com.resc.remgauge.GaugeBuilder 
+	    android:id="@+id/analogGauge2"
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="2dp"
+        android:layout_weight="1" />
+	
+	<com.resc.remgauge.GaugeBuilder 
+	    android:id="@+id/analogGauge3"
+    	android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="2dp"
+        android:layout_weight="1" />
+</LinearLayout>
+<!-- From: file:/C:/Users/rob/Desktop/rgApp/rgApp1.2/app/src/main/res/layout/gauge_layout.xml -->
